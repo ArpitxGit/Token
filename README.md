@@ -1,3 +1,3 @@
 # Token
 
-A simple ERC20 Token deployed on Rinkeby Testnet
+A simple ERC20 Token deployed on Rinkeby Testnet using Truffle.
